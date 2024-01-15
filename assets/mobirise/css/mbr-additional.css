@@ -1521,7 +1521,7 @@ a {
   text-align: center;
 }
 .cid-u0HX3jHQw1 .mbr-section-title {
-  color: #000000;
+  color: #7e80c8;
 }
 .cid-u0HX3jHQw1 .mbr-text,
 .cid-u0HX3jHQw1 .mbr-section-btn {
@@ -1544,7 +1544,7 @@ a {
 }
 .cid-u0HX3jHQw1 .item-title,
 .cid-u0HX3jHQw1 .mbr-section-btn {
-  color: #7e80c8;
+  color: #656263;
 }
 .cid-u14PolBVmv {
   padding-top: 6rem;
@@ -1765,9 +1765,9 @@ a {
   max-width: 800px;
 }
 .cid-u14HueCkcb {
-  padding-top: 5rem;
+  padding-top: 10rem;
   padding-bottom: 5rem;
-  background-color: #edefeb;
+  background-color: #f7f7f7;
 }
 .cid-u14HueCkcb .mbr-fallback-image.disabled {
   display: none;
@@ -1863,6 +1863,9 @@ a {
 .cid-u14HueCkcb .main-button {
   color: #000000;
 }
+.cid-u14HueCkcb .mbr-section-title {
+  color: #7e80c8;
+}
 .cid-u14JVrleEq {
   padding-top: 6rem;
   padding-bottom: 6rem;
@@ -1908,7 +1911,7 @@ a {
   color: #000000;
 }
 .cid-u14JVrleEq .mbr-section-title {
-  color: #000000;
+  color: #7e80c8;
   text-align: center;
 }
 .cid-u14JVrleEq .mbr-text,
@@ -1977,7 +1980,7 @@ a {
 .cid-u14Jf9An0Z {
   padding-top: 5rem;
   padding-bottom: 5rem;
-  background-color: #edefeb;
+  background-color: #f7f7f7;
 }
 .cid-u14Jf9An0Z .mbr-fallback-image.disabled {
   display: none;
@@ -2051,6 +2054,9 @@ a {
 .cid-u14Jf9An0Z .main-button {
   color: #000000;
 }
+.cid-u14Jf9An0Z .mbr-section-title {
+  color: #7e80c8;
+}
 .cid-u0IdwWcyVE {
   padding-top: 6rem;
   padding-bottom: 6rem;
@@ -2100,10 +2106,13 @@ a {
 .cid-u0IdwWcyVE .content-head {
   max-width: 800px;
 }
+.cid-u0IdwWcyVE .mbr-section-title {
+  color: #7e80c8;
+}
 .cid-u13IcxbeJn {
   padding-top: 6rem;
   padding-bottom: 6rem;
-  background-color: #edefeb;
+  background-color: #f7f7f7;
 }
 .cid-u13IcxbeJn .item-wrapper img {
   width: 80px;
@@ -2140,7 +2149,7 @@ a {
   max-width: 800px;
 }
 .cid-u13IcxbeJn .mbr-section-title {
-  color: #000000;
+  color: #7e80c8;
 }
 .cid-u13IcxbeJn .card-title,
 .cid-u13IcxbeJn .img-wrapper {
@@ -2203,7 +2212,7 @@ a {
   margin-top: auto;
 }
 .cid-u0I4VZJN7o .mbr-section-title {
-  color: #000000;
+  color: #7e80c8;
 }
 .cid-u0I4VZJN7o .item-title {
   text-align: left;
@@ -2220,9 +2229,6 @@ a {
 }
 .cid-u0I8Y2oddp {
   background-color: #7e80c8;
-}
-.cid-u0I8Y2oddp .row {
-  flex-direction: row-reverse;
 }
 .cid-u0I8Y2oddp .justify-content-center {
   align-items: center;
@@ -2255,8 +2261,8 @@ a {
 }
 .cid-u0I8QgSWs0 {
   padding-top: 0rem;
-  padding-bottom: 3rem;
-  background-color: #f7f7f7;
+  padding-bottom: 2rem;
+  background-color: #7e80c8;
 }
 .cid-u0I8QgSWs0 .social-row {
   display: flex;
