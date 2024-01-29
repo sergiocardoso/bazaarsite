@@ -1373,11 +1373,53 @@ a {
 .cid-u0HSpnRNCj .mbr-section-btn {
   text-align: center;
 }
+.cid-u2KIswBJNk {
+  padding-top: 6rem;
+  padding-bottom: 0rem;
+  background-color: #f7f7f7;
+}
+.cid-u2KIswBJNk .mbr-fallback-image.disabled {
+  display: none;
+}
+.cid-u2KIswBJNk .mbr-fallback-image {
+  display: block;
+  background-size: cover;
+  background-position: center center;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+}
+@media (max-width: 991px) {
+  .cid-u2KIswBJNk .image-wrapper {
+    margin-bottom: 1rem;
+  }
+}
+.cid-u2KIswBJNk .row {
+  align-items: center;
+}
+@media (max-width: 991px) {
+  .cid-u2KIswBJNk .image-wrapper {
+    padding: 1rem;
+  }
+}
+@media (min-width: 992px) {
+  .cid-u2KIswBJNk .text-wrapper {
+    padding: 0 2rem;
+  }
+}
+.cid-u2KIswBJNk .mbr-section-title {
+  color: #000000;
+}
+.cid-u2KIswBJNk .mbr-text,
+.cid-u2KIswBJNk .mbr-section-btn {
+  color: #232323;
+}
 .cid-u2tHCy45Y4 {
   overflow: hidden;
-  padding-top: 5rem;
-  padding-bottom: 5rem;
-  background-image: url("../../../assets/images/conference28-1920.webp");
+  padding-top: 4rem;
+  padding-bottom: 4rem;
+  background-color: #f7f7f7;
 }
 .cid-u2tHCy45Y4 .image {
   position: absolute;
@@ -1486,53 +1528,8 @@ a {
     opacity: 1;
   }
 }
-.cid-u2KIswBJNk {
-  padding-top: 6rem;
-  padding-bottom: 6rem;
-  background-color: #f7f7f7;
-}
-.cid-u2KIswBJNk .mbr-fallback-image.disabled {
-  display: none;
-}
-.cid-u2KIswBJNk .mbr-fallback-image {
-  display: block;
-  background-size: cover;
-  background-position: center center;
-  width: 100%;
-  height: 100%;
-  position: absolute;
-  top: 0;
-}
-@media (max-width: 991px) {
-  .cid-u2KIswBJNk .image-wrapper {
-    margin-bottom: 1rem;
-  }
-}
-.cid-u2KIswBJNk .row {
-  flex-direction: row-reverse;
-}
-.cid-u2KIswBJNk .row {
-  align-items: center;
-}
-@media (max-width: 991px) {
-  .cid-u2KIswBJNk .image-wrapper {
-    padding: 1rem;
-  }
-}
-@media (min-width: 992px) {
-  .cid-u2KIswBJNk .text-wrapper {
-    padding: 0 2rem;
-  }
-}
-.cid-u2KIswBJNk .mbr-section-title {
-  color: #000000;
-}
-.cid-u2KIswBJNk .mbr-text,
-.cid-u2KIswBJNk .mbr-section-btn {
-  color: #232323;
-}
 .cid-u2KITx7ePX {
-  padding-top: 0rem;
+  padding-top: 2rem;
   padding-bottom: 0rem;
   background-color: #f7f7f7;
 }
@@ -1582,7 +1579,7 @@ a {
   color: #7e80c8;
 }
 .cid-u2KITx7ePX .mbr-section-title {
-  text-align: center;
+  text-align: left;
 }
 .cid-u2KITx7ePX .mbr-subtitle {
   text-align: center;
@@ -1592,7 +1589,7 @@ a {
   text-align: left;
 }
 .cid-u2tEqdDB7O {
-  padding-top: 5rem;
+  padding-top: 0rem;
   padding-bottom: 5rem;
   background-color: #f7f7f7;
 }
@@ -2342,7 +2339,7 @@ a {
 }
 @media (min-width: 992px) {
   .cid-u2tyztppC3 .lg-push {
-    right: 56%;
+    right: 55%;
   }
   .cid-u2tyztppC3 .container-fluid {
     padding-left: 0 !important;
@@ -2356,10 +2353,52 @@ a {
 .cid-u2tyztppC3 .mbr-section-btn {
   color: #ffffff;
 }
+.cid-u2KM7x25Oe {
+  padding-top: 8rem;
+  padding-bottom: 8rem;
+  background-color: #ffffff;
+}
+.cid-u2KM7x25Oe .mbr-fallback-image.disabled {
+  display: none;
+}
+.cid-u2KM7x25Oe .mbr-fallback-image {
+  display: block;
+  background-size: cover;
+  background-position: center center;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+}
+@media (max-width: 991px) {
+  .cid-u2KM7x25Oe .image-wrapper {
+    margin-bottom: 1rem;
+  }
+}
+.cid-u2KM7x25Oe .row {
+  align-items: center;
+}
+@media (max-width: 991px) {
+  .cid-u2KM7x25Oe .image-wrapper {
+    padding: 1rem;
+  }
+}
+@media (min-width: 992px) {
+  .cid-u2KM7x25Oe .text-wrapper {
+    padding: 0 2rem;
+  }
+}
+.cid-u2KM7x25Oe .mbr-section-title {
+  color: #000000;
+}
+.cid-u2KM7x25Oe .mbr-text,
+.cid-u2KM7x25Oe .mbr-section-btn {
+  color: #000000;
+}
 .cid-u2twnHDndr {
   padding-top: 4rem;
   padding-bottom: 4rem;
-  background-color: #ffffff;
+  background-color: #f7f7f7;
 }
 .cid-u2twnHDndr .mbr-section-subtitle {
   opacity: .8;
@@ -2468,7 +2507,7 @@ a {
 .cid-u2tB2Cn3vY {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-color: #ffffff;
+  background-color: #f7f7f7;
 }
 .cid-u2tB2Cn3vY .showAlerts {
   display: block !important;
@@ -2566,7 +2605,7 @@ a {
 .cid-u2tB0J2LTK {
   padding-top: 6rem;
   padding-bottom: 2rem;
-  background-color: #f7f7f7;
+  background-color: #ffffff;
 }
 .cid-u2tB0J2LTK .logo__image {
   width: 100px;
