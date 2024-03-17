@@ -1374,6 +1374,8 @@ a {
   text-align: center;
 }
 .cid-u2KIswBJNk {
+  padding-top: 6rem;
+  padding-bottom: 0rem;
   background-color: #ffffff;
 }
 .cid-u2KIswBJNk .mbr-fallback-image.disabled {
@@ -2314,7 +2316,7 @@ a {
 }
 @media (min-width: 992px) {
   .cid-u5usgWKWJd .lg-push {
-    right: 55%;
+    right: 56%;
   }
   .cid-u5usgWKWJd .container-fluid {
     padding-left: 0 !important;
